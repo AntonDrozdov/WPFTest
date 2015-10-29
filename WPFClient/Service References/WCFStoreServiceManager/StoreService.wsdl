@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="StoreService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:52449/StoreService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:52449/StoreService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:52449/StoreService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/DataManager.DMModel" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IStoreService_Goods_InputMessage">
+    <wsdl:part name="parameters" element="tns:Goods" />
+  </wsdl:message>
+  <wsdl:message name="IStoreService_Goods_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GoodsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStoreService_GetGood_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetGood" />
+  </wsdl:message>
+  <wsdl:message name="IStoreService_GetGood_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetGoodResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStoreService_SaveGood_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveGood" />
+  </wsdl:message>
+  <wsdl:message name="IStoreService_SaveGood_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveGoodResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStoreService_DeleteGood_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteGood" />
+  </wsdl:message>
+  <wsdl:message name="IStoreService_DeleteGood_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteGoodResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IStoreService">
+    <wsdl:operation name="Goods">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStoreService/Goods" message="tns:IStoreService_Goods_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStoreService/GoodsResponse" message="tns:IStoreService_Goods_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetGood">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStoreService/GetGood" message="tns:IStoreService_GetGood_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStoreService/GetGoodResponse" message="tns:IStoreService_GetGood_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveGood">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStoreService/SaveGood" message="tns:IStoreService_SaveGood_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStoreService/SaveGoodResponse" message="tns:IStoreService_SaveGood_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteGood">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStoreService/DeleteGood" message="tns:IStoreService_DeleteGood_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStoreService/DeleteGoodResponse" message="tns:IStoreService_DeleteGood_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IStoreService" type="tns:IStoreService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Goods">
+      <soap:operation soapAction="http://tempuri.org/IStoreService/Goods" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetGood">
+      <soap:operation soapAction="http://tempuri.org/IStoreService/GetGood" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveGood">
+      <soap:operation soapAction="http://tempuri.org/IStoreService/SaveGood" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteGood">
+      <soap:operation soapAction="http://tempuri.org/IStoreService/DeleteGood" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="StoreService">
+    <wsdl:port name="BasicHttpBinding_IStoreService" binding="tns:BasicHttpBinding_IStoreService">
+      <soap:address location="http://localhost:52449/StoreService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

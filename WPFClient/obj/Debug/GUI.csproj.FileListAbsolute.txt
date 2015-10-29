@@ -1,0 +1,17 @@
+E:\DEVELOP\Sol\Sol\GUI\bin\Debug\GUI.exe.config
+E:\DEVELOP\Sol\Sol\GUI\bin\Debug\GUI.exe
+E:\DEVELOP\Sol\Sol\GUI\bin\Debug\GUI.pdb
+E:\DEVELOP\Sol\Sol\GUI\bin\Debug\DataManager.dll
+E:\DEVELOP\Sol\Sol\GUI\bin\Debug\DataManager.pdb
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\GoodsList.baml
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\GoodsList.g.cs
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\App.g.cs
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\GUI_MarkupCompile.cache
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\GUI.g.resources
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\GUI.exe
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\GUI.pdb
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\CreateEdit.baml
+E:\DEVELOP\Sol\Sol\GUI\obj\Debug\CreateEdit.g.cs

@@ -1,0 +1,14 @@
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\bin\Debug\WCFStoreSErviceLib.dll
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\bin\Debug\WCFStoreSErviceLib.pdb
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\bin\Debug\DataManager.dll
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\bin\Debug\DataManager.pdb
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\obj\Debug\WCFStoreSErviceLib.csprojResolveAssemblyReference.cache
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\obj\Debug\WCFStoreSErviceLib.dll
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\obj\Debug\WCFStoreSErviceLib.pdb
+E:\DEVELOP\WPFTest\WPFWCFTest\WCFStoreServiceLib\bin\Debug\WCFStoreSErviceLib.dll
+E:\DEVELOP\WPFTest\WPFWCFTest\WCFStoreServiceLib\bin\Debug\WCFStoreSErviceLib.pdb
+E:\DEVELOP\WPFTest\WPFWCFTest\WCFStoreServiceLib\bin\Debug\DataManager.dll
+E:\DEVELOP\WPFTest\WPFWCFTest\WCFStoreServiceLib\bin\Debug\DataManager.pdb
+E:\DEVELOP\WPFTest\WPFWCFTest\WCFStoreServiceLib\obj\Debug\WCFStoreServiceLib.csprojResolveAssemblyReference.cache
+E:\DEVELOP\WPFTest\WPFWCFTest\WCFStoreServiceLib\obj\Debug\WCFStoreSErviceLib.dll
+E:\DEVELOP\WPFTest\WPFWCFTest\WCFStoreServiceLib\obj\Debug\WCFStoreSErviceLib.pdb

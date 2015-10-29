@@ -1,0 +1,10 @@
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\bin\Release\ConsoleHost.exe.config
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\bin\Release\ConsoleHost.exe
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\bin\Release\ConsoleHost.pdb
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\bin\Release\WCFStoreSErviceLib.dll
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\bin\Release\DataManager.dll
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\bin\Release\WCFStoreSErviceLib.pdb
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\bin\Release\DataManager.pdb
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\obj\Release\ConsoleStoreServiceHost.csprojResolveAssemblyReference.cache
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\obj\Release\ConsoleHost.exe
+E:\DEVELOP\Sol\Sol\ConsoleStoreServiceHost\ConsoleHost\obj\Release\ConsoleHost.pdb

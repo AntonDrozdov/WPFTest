@@ -1,0 +1,17 @@
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\bin\Release\WPFStoreServer.exe.config
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\bin\Release\WPFStoreServer.exe
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\bin\Release\WPFStoreServer.pdb
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\WPFStoreServiceHost.csprojResolveAssemblyReference.cache
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\MainWindow.baml
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\MainWindow.g.cs
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\App.g.cs
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\WPFStoreServer_MarkupCompile.cache
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\WPFStoreServer.g.resources
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\WPFStoreServer.Properties.Resources.resources
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\WPFStoreServiceHost.csproj.GenerateResource.Cache
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\WPFStoreServer.exe
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\obj\Release\WPFStoreServer.pdb
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\bin\Release\WCFStoreSErviceLib.dll
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\bin\Release\DataManager.dll
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\bin\Release\WCFStoreSErviceLib.pdb
+E:\DEVELOP\Sol\Sol\WPFStoreServiceHost\WPFStoreServer\bin\Release\DataManager.pdb

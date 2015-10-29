@@ -1,0 +1,29 @@
+﻿<Window x:Class="GUI.CreateEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Create/Edit" Height="160" Width="300" WindowStartupLocation="CenterScreen" Activated="Window_Activated">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="230"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" Height="26" Margin="0,8,0,7" Width="32">
+            <Label  Content="Title"/>
+        </StackPanel>
+        <StackPanel Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" Height="26" Margin="0,7,0,8" Width="53" >
+            <Label  Content="Amount"/>
+        </StackPanel>
+
+
+        <TextBox Grid.Column="1" Grid.Row="0" Margin="10" Name="tb_Title"></TextBox>
+        <TextBox Grid.Column="1" Grid.Row="1" Margin="10" Name="tb_Amount"></TextBox>
+
+        <Button  Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Content="Save" FontSize="16" Click="Button_Click"></Button>
+
+    </Grid>
+</Window>

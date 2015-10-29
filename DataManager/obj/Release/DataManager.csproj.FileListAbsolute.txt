@@ -1,0 +1,4 @@
+E:\DEVELOP\Sol\Sol\DataManager\bin\Release\DataManager.dll
+E:\DEVELOP\Sol\Sol\DataManager\bin\Release\DataManager.pdb
+E:\DEVELOP\Sol\Sol\DataManager\obj\Release\DataManager.dll
+E:\DEVELOP\Sol\Sol\DataManager\obj\Release\DataManager.pdb

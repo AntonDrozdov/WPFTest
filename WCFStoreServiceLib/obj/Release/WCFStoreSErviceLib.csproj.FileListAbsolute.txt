@@ -1,0 +1,7 @@
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\bin\Release\WCFStoreSErviceLib.dll
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\bin\Release\WCFStoreSErviceLib.pdb
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\bin\Release\DataManager.dll
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\bin\Release\DataManager.pdb
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\obj\Release\WCFStoreSErviceLib.csprojResolveAssemblyReference.cache
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\obj\Release\WCFStoreSErviceLib.dll
+E:\DEVELOP\Sol\Sol\WCFStoreSErviceLib\WCFStoreSErviceLib\obj\Release\WCFStoreSErviceLib.pdb
